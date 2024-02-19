@@ -1,4 +1,6 @@
-package geecache
+package golrucache
+
+// abstraction of cached data
 
 // create an immutable view of the cached data
 type ByteView struct {
